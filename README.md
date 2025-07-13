@@ -17,7 +17,7 @@ Hellu im DmaxB, im a minecraft nerd and like to program some websites on the sid
     Source code/files for a little resource pack "adding" a mic, a cam and a trophy, all based on Eurovision 2024.
     **Note!** Its only in alpha and in the moment i dont have plans to continue working on the pack, maybe someday.
 
-    Link: https://modrinth.com/resourcepack/dmaxbs-mics-and-cams!!
+    Link: https://modrinth.com/resourcepack/dmaxbs-mics-and-cams
 
 
 ## What languages do i program in?
