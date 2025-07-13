@@ -13,9 +13,15 @@ Hellu im DmaxB, im a minecraft nerd and like to program some websites on the sid
 
   Link: https://dmaxb13.github.io/iSite/
 
+- ### DmaxBs Mics and Cams:
+    Source code/files for a little resource pack "adding" a mic, a cam and a trophy, all based on Eurovision 2024.
+    **Note!** Its only in alpha and in the moment i dont have plans to continue working on the pack, maybe someday.
+
+    Link: https://modrinth.com/resourcepack/dmaxbs-mics-and-cams!
+
 
 ## What languages do i program in?
-Well im a web developer so i program in...
+Well im mostly a web developer so i program in...
 - **HTML**
 - **CSS**
 - **JavaScript** (only when neccesary)
