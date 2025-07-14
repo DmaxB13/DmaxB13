@@ -9,6 +9,7 @@ Hellu im DmaxB, im a minecraft nerd and like to program some websites on the sid
 
 ## My projects:
 - ### iSite:
+  **iSite only works on computer!**
   iSite is a website for my private Minecraft server MC23. Here you can do many things related to the server and more features coming soon including a big update coming around spring 2026. iSite is primarily made for the people playing on MC23.
 
   Link: https://dmaxb13.github.io/iSite/
